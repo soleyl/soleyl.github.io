@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soley's projects and interests"
+title                    : "Projects and interests"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Soley Ludviksdottir"
-description              : "Some sort of portfolio"
+description              : "Soley's projects"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "soleyl/soleyl.github.io" # GitHub username/repo-name e.g. "soleyl/soleyl.github.io"
@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "Soley Ludviksdottir"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an industrial designer & computer scientist currently working as a software specialist in a high-tech company focused on the seafood industry. I focus on understanding and enabling the connection between functional design and technology, interface accessibility and user friendliness."
-  location         : "An island in the middle of the Atlantic ocean"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. 
+  bio              : "An industrial designer/computer scientist that loves taking dives in the Atlantic ocean"
+  location         : "Iceland"
   email            :
   links:
     - label: "Email"
