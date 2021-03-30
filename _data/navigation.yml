@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://soleyl.github.io/soley.github.io/about/
+    url: /about/
   - title: "Pages"
     url: /page-archive/
   - title: "Categories"
