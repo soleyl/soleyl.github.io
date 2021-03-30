@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+classes: wide
 ---
 
 Most people start with an About page that introduces them to potential site visitors. It might say something like this:
