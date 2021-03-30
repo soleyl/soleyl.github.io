@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /docs/resume/
+    url: /docs/about/
   - title: "Pages"
     url: /page-archive/
   - title: "Categories"
